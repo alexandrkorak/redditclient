@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedditClient</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="retry">Retry</string>
+</resources>
